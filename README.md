@@ -29,6 +29,17 @@ To run as a standalone script add a file named API_settings.py containing your p
 poloniex_API_key = ""
 poloniex_API_secret = ""
 
+#Requirements 
+python >3
+pip3 install tensorflow
+pip3 install sklearn
+pip3 install numpy
+pip3 install scipy
+pip3 install pandas
+pip3 install requests
+pip3 install keras
+
 #TO DO
 Requirements and setup instructions.
+
 
